@@ -1,0 +1,308 @@
+{"dungeons": [
+    {
+      "dungeonID": "md1",
+      "dungeonName": "Cave of Flames",
+      "dungeonDescription": "CoF Desc Test",
+      "dialogueLines": [
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "<style=p>It's so hot! I wanna go home! This is unbearable...</style>",
+          "expressionPath": "characters/Tilith/sad",
+          "charPrefabPath": "TilithPos"
+        },
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "<style=h1>Oh! {{user}}!</style>",
+          "expressionPath": "characters/Tilith/serious2",
+          "charPrefabPath": "TilithPos"
+        },
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "Hey, you're late! What've you been up to?!",
+          "expressionPath": "characters/Tilith/serious",
+          "charPrefabPath": "TilithPos"
+        }   
+        ,
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "How could you keep me waiting in this steaming hot cave!",
+          "expressionPath": "characters/Tilith/sad",
+          "charPrefabPath": "TilithPos"
+        },
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "I'm beginning to worry about our journey...",
+          "expressionPath": "characters/Tilith/worried",
+          "charPrefabPath": "TilithPos"
+        },
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "Well, I did promise I'd tell you more about exactly what's going on...",
+          "expressionPath": "characters/Tilith/neutral",
+          "charPrefabPath": "TilithPos"
+        },
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "This is serious, so listen close, OK?",
+          "expressionPath": "characters/Tilith/neutral",
+          "charPrefabPath": "TilithPos"
+        },
+        {
+          "id": "01",
+          "speakerName": "Tilith",
+          "dialogueText": "Grand Gaia is in the midst of a great crisis...",
+          "expressionPath": "characters/Tilith/serious2",
+          "charPrefabPath": "TilithPos"
+        }
+      ]
+    },
+    {
+        "dungeonID": "md2",
+        "dungeonName": "Adventurer's Praire",
+        "dungeonDescription": "AP Desc test",
+        "dialogueLines": 
+        [
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Hello <style=h1>{{user}}</style>, we're in Adventurer's Parire",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "02",
+                "speakerName": "Seria",
+                "dialogueText": "<style=h1>Brr...</style> Let's fuckinggooooo",
+                "expressionPath": "characters/Seria/smiling",
+                "charPrefabPath": "SeriaPos"
+            },
+            {
+                "id": "03",
+                "speakerName": "Karl",
+                "dialogueText": "Wazzapppp",
+                "expressionPath": "characters/Karl/hurt",
+                "charPrefabPath": "KarlPos"
+            }   
+            ,
+            {
+                "id": "03",
+                "speakerName": "Karl",
+                "dialogueText": "Yea, that's me",
+                "expressionPath": "characters/Karl/neutral",
+                "charPrefabPath": "KarlPos"
+            },
+            {
+                "id": "04",
+                "speakerName": "Lugina",
+                "dialogueText": "Hella nah",
+                "expressionPath": "characters/Lugina/angry",
+                "charPrefabPath": "LuginaPos"
+            },
+            {
+                "id": "05",
+                "speakerName": "Paris",
+                "dialogueText": "Testing still, hope it works",
+                "expressionPath": "characters/Paris/smiling",
+                "charPrefabPath": "ParisPos"
+            },
+            {
+                "id": "05",
+                "speakerName": "Paris",
+                "dialogueText": "Almost doneee",
+                "expressionPath": "characters/Paris/neutral",
+                "charPrefabPath": "ParisPos"
+            },
+            {
+                "id": "05",
+                "speakerName": "Paris",
+                "dialogueText": "Finally Done",
+                "expressionPath": "characters/Paris/surprised",
+                "charPrefabPath": "ParisPos"
+            }
+        ]
+    },
+        {
+        "dungeonID": "md3",
+        "dungeonName": "Egor Snowfield",
+        "dungeonDescription": "ES Desc test",
+        "dialogueLines": 
+        [
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "...Brr <style=h1>...Brr!</style>",
+                "expressionPath": "characters/Tilith/sad",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "<style=h1>Achoo!!</style>",
+                "expressionPath": "characters/Tilith/sad",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "...Oh my, it's freezing!",
+                "expressionPath": "characters/Tilith/worried",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Hey! How dare you make a girl wait in such a cold place!",
+                "expressionPath": "characters/Tilith/serious2",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Brr... it's too cold!!",
+                "expressionPath": "characters/Tilith/sad",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "So, to get to the Tower of Mistral you'll need to cross Egor Snowfield and go through the forest...",
+                "expressionPath": "characters/Tilith/worried",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Then head through the marsh, and then through the ruins...",
+                "expressionPath": "characters/Tilith/worried",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "It's far enough just imagining it, and that's before you even consider how extreme the weather can get!",
+                "expressionPath": "characters/Tilith/sad",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Anyway, you've still got a long way to the tower.",
+                "expressionPath": "characters/Tilith/worried",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Be careful though. Enemies get stronger the closer you get to it.",
+                "expressionPath": "characters/Tilith/worried",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "If you encounter an enemy you can't defeat, it might be a good idea to return to the previous dungeon and train a bit.",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Oh yeah, it's also about time you start managing your squad with their elements in mind.",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Most of the enemies in the cave were fire elementals so a squad of water element Units would have given you a huge advantage!",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "This time we're in a snowy field. I think we'll be seeing a lot of water elementals around.",
+                "expressionPath": "characters/Tilith/serious",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "It's far enough just imagining it, and that's before you even consider how extreme the weather can get!",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Yeah, that's right!",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Seems like you've been studying. Yup, thunder beats water.",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "On the other hand, fire element Units would be at a disadvantage against enemies from the snowfield, so be careful.",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "...Brr <style=h1>...Brr!</style>",
+                "expressionPath": "characters/Tilith/sad",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "<style=h1>Achoo!!</style>",
+                "expressionPath": "characters/Tilith/sad",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "Geez, I can't take it anymore. I'm going home!",
+                "expressionPath": "characters/Tilith/worried",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "...Ah, I almost forgot.",
+                "expressionPath": "characters/Tilith/surprised",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "It seems that a knight summoned by Maxwell has been creating chaos somewhere near the end of this snowfield.",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            },
+            {
+                "id": "01",
+                "speakerName": "Tilith",
+                "dialogueText": "He seems to be quite strong. Take care!",
+                "expressionPath": "characters/Tilith/neutral",
+                "charPrefabPath": "TilithPos"
+            }
+        ]
+    }
+  ]
+}

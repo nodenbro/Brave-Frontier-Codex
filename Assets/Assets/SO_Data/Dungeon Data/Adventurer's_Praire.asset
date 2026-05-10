@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c715011e8b4e442b90e57ff476a309, type: 3}
+  m_Name: Adventurer's_Praire
+  m_EditorClassIdentifier: 
+  dungeonID: md2
+  areaName: Adventurer's Praire
+  backgroundName: dungeon_battle_0001
+  dungeons:
+  - dungeonName: Start of Adventure 111
+    dungeonDescription: Your journey as a Summoner traveling across Grand Gaia has
+      begun! Go forth, and don't forget what Tilith taught you!
+  - dungeonName: This is from the Script as well as the Data
+    dungeonDescription: Your journey as a Summoner traveling across Grand Gaia has
+      begun! Go forth, and don't forget what Tilith taught you!

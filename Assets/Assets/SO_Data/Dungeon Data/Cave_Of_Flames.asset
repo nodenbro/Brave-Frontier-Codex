@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c715011e8b4e442b90e57ff476a309, type: 3}
+  m_Name: Cave_Of_Flames
+  m_EditorClassIdentifier: 
+  dungeonID: md1
+  areaName: Cave of Flames
+  backgroundName: dungeon_battle_10200
+  dungeons:
+  - dungeonName: 'The Blazing Beast '
+    dungeonDescription: Looks like you'll be able to leave this case soon, but there
+      seems to be something sinister awaiting for you at the end. (Dialogue)
+  - dungeonName: 'The Thief''s Hideout '
+    dungeonDescription: You've come far, but there's still no exit in site. There
+      are supposed to be bandits in this area
+  - dungeonName: Wielder of Fire
+    dungeonDescription: 'Continue deeper into the Cave of Flames. Beings who control
+      fire are waiting ahead. '
+  - dungeonName: Cave of Dancing Flames
+    dungeonDescription: The magma flowing within this cave give off and intense heat.
+      The enemies in this cave have the power of fire.
