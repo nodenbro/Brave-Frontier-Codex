@@ -1,1 +1,1 @@
-# Brave Frontier Story
+# Brave Frontier Codex Fan Project
